@@ -1,0 +1,10 @@
+.root {
+  background: #FFF;
+  height: 100%;
+}
+
+.editor {
+  margin: 2.5% auto 0 auto;
+  height: 95%;
+  width: 95%;
+}
